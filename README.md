@@ -27,3 +27,10 @@ The **SVM model** achieved the highest accuracy, making it the default choice in
 * **Real-time visualization** of input data and prediction confidence
 
 This interface enhances accessibility and makes it easier for business stakeholders to leverage machine learning insights without deep technical knowledge.
+
+## Usage
+
+```bash
+git clone https://github.com/KeneanDita/Churnomally
+cd Churnomally
+streamlit run ./stream.py
